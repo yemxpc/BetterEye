@@ -1,4 +1,10 @@
-#include "core/scanner.hpp"
+/*
+ * BetterEye v1.0
+ * Copyright (c) 2024 yemxpc
+ * Licensed under the MIT License.
+ */
+
+ #include "core/scanner.hpp"
 #include <iostream>
 #include <string>
 
