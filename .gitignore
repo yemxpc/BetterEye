@@ -1,0 +1,5 @@
+bettereye
+build/
+bin/
+*.o
+.vscode/
